@@ -1,0 +1,74 @@
+body{
+
+    background-color: black;
+    margin-left: 70%;
+    margin-top: 60px;
+
+}
+p{
+    size: 60%;
+    font-size: 60px;
+    color: white;
+    text-align: right;
+    padding-bottom: 0;
+}
+span{
+    color: yellow;
+}
+button{
+height: 90px;
+width: 90px;
+border:  1px solid black;
+border-radius: 45px;
+font-size: 30px;
+font-weight: bold;
+color: white;
+background-color: #424240;
+margin-bottom: 13px;
+margin-right: 6px;
+
+
+
+}
+#calc{
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+
+}
+.arthmetic{
+
+    /* margin-left: 30px; */
+    color: white;
+   
+}
+line2{
+    margin-left: 40px;
+}
+line3{
+    margin-left: 30px;
+}
+line{
+    margin-left: 30px;
+}
+.A{
+    width: 50px;
+    
+}
+.screen{
+    width: 100%;
+    height: 75px;
+    background-color: white;
+    margin-top: -60px;
+
+}
+.result{
+    color: black;
+    text-align: top;
+    padding-left: 10px;
+    width: 96%;
+    height: 95%;
+   
+}
